@@ -1,0 +1,23 @@
+body {
+  background-color: gold;
+}
+.wrapper .game h1 {
+  color: white;
+  background-color: black;
+  width: 100vh;
+  text-align: center;
+  left: -10%;
+}
+canvas {
+  border-color: goldenrod;
+  background-color: black;
+}
+.main p {
+  color: white;
+  font-weight: bold;
+}
+.main button {
+  border: 3px solid white;
+  background-color: rgb(13, 11, 11);
+  color: white;
+}
